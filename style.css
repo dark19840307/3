@@ -22,7 +22,7 @@ header span {
 
 .main-section {
     background-color: #FAFAFF ;
-    padding: 60px 60px;
+    padding: 60px 0;
     min-width: 2047px;
     /* Стили для первой секции */
 }
