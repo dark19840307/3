@@ -21,34 +21,51 @@ header span {
 }
 
 .main-section {
-    background-color: #FAFAFF ;
+    background-color: #FAFAFF;
     padding: 60px 0;
-    min-width: 2047px;
+    min-height: 100vh;
+    min-width: 100vw;
+    
+    
     /* Стили для первой секции */
 }
 
 .main-title {
+    color:#070808;
+    font-size: 58px;
+    font-weight: 500px;
+    line-height: 68px;
+    margin-bottom: 30px;
+
     /* Стили для заголовка в первой секции */
 }
 
 .main-text {
+    color:#363940;
+    font-size: 58px;
     /* Стили для текста в первой секции */
 }
 
 .main-image {
+    max-width: 715px;
     /* Стили для изображения в первой секции */
 }
 
 
 .about-section {
+    background-color: #FAFAFF;
+    padding-top: 60px;
+    padding-bottom: 60px;
     /* Стили для второй секции */
 }
 
 select {
+    margin-top: 60px;
     /* Стили для выпадающего списка */
 }
 
 .section-title {
+    margin-top: 0;
     /* Стили для заголовков во второй секции */
 }
 
